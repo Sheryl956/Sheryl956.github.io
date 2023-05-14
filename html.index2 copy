@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Sheryl's Profile</title>
+</head>
+
+<body>
+	<h1>My Profile</h1>
+	<img src= "https://media.discordapp.net/attachments/1107191744686215189/1107297329796632597/face.jpeg?width=434&height=773" >
+		 <p>My name is Sheryl and I am turning 21 this year. I am currently pursuing my degree in Creative Media and aim to specialise in Immersive Design. My hobbies include drawing and listening to music, however these days, I have not had the privilege of doing them as I am hurdled by assignments and am being swallowed by them.</p>
+	
+	<h2>My Interest</h2>
+	 <ul><li>Art</li></ul><ul><li>Russian Literature</li></ul><ul><li>Music</li>
+	 </ul>
+	 <p>&nbsp;</p>
+<h2>My Socials</h2>
+    <a href="https://www.facebook.com/sheryl.cyril/" target="blank"></ul><ul><li>Facebook</li></ul>
+</body>
+</html>
